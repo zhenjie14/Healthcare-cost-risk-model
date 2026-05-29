@@ -92,15 +92,4 @@ Example analyses included:
 
 ---
 
-## Repository Structure
-
-```text
-Healthcare-cost-risk-model/
-├── data/
-├── notebooks/
-├── sql/
-├── visuals/
-├── healthcare.db
-└── README.md
-```
 
