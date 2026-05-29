@@ -91,18 +91,4 @@ The modeled dataset was loaded into SQLite to support portfolio level reporting.
 
 ---
 
-<<<<<<< HEAD
-=======
-## Limitations
-
-The model does not capture chronic condition history, prescription drug use, or prior claims, all of which would improve severity estimates in a real underwriting context. Individual prediction errors remain high (RMSE of $7,712), which is expected in healthcare claims modeling due to the inherently unpredictable nature of individual health events. Results are based on a single cross sectional dataset and should not be interpreted as causal.
-
----
-
-## Technologies
-
-Python, Pandas, NumPy, Scikit-Learn, Statsmodels, SQL, SQLite, Matplotlib, Jupyter Notebook
-
----
->>>>>>> 5a20f84 (fixing readme)
 
